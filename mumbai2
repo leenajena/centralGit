@@ -2,3 +2,5 @@ print("Hellow")
 print("How are you")
 "where are u staying"
 "what is ur permanent address"
+print("what is ur blood group")
+print("what is ur educational background with marksheet:")
